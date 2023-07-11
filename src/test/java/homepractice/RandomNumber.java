@@ -9,7 +9,7 @@ public class RandomNumber {
              String phno = j.getRandomPhNumber();
              System.out.println(phno);
              
-             //this methodnis for random number
+             //thank you
 	}
 
 }
