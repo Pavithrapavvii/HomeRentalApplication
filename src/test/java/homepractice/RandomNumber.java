@@ -8,6 +8,8 @@ public class RandomNumber {
              JavaUtlity j=new JavaUtlity();
              String phno = j.getRandomPhNumber();
              System.out.println(phno);
+             
+             //this methodnis for random number
 	}
 
 }
